@@ -2,7 +2,7 @@
 
 ## The Goal
 
-Musicians love to take vocals and modulate them or otherwise mess with them. Missy Elliott put her thing down, flipped it, and reversed it. T-Pain autotuned an entire decade. Kanye can will muffle loud yells so they sound distant, and Bon Iver will take near-whispers and turn them into a wall of sound and emotion.
+Musicians love to take vocals and modulate them or otherwise mess with them. Missy Elliott put her thing down, flipped it, and reversed it. T-Pain autotuned an entire decade. Kanye will muffle loud yells so they sound distant, and Bon Iver will take near-whispers and turn them into a wall of sound and emotion.
 
 ![beatmapper](https://media.giphy.com/media/10ZQLUWJ4HwvS/giphy.gif)
 
