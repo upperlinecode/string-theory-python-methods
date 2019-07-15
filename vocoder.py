@@ -51,3 +51,6 @@
 
 # 9. MEGA CHALLENGE: Write a function called doubler that takes in a string and returns it with every letter doubled.
 #    For example, doubler("Lost in the Woods") would return "LLoosstt iinn tthhee WWooooddss"
+
+
+# 10. SUPER MEGA CHALLENGE: Head to https://codingbat.com/python/String-2 and attempt some of the challenges there!
